@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700|Sarabu:100,200,300,400,500,600,700n&display=swap');
+
+h1{
+    font-family:'Sarabun', sans-serif;
+    font-weight: 700;
+}
+
+
+/*------------------------------nav bar */
+
+.navbar-brand{
+    background: url(images/Abbey-Rae.jpg);
+}
+
+
+/*------------------------------footer */
+
+
+.social-networks { 
+    text-align: center;
+}
+
+.social-networks, li {   
+    display: inline;
+}
+
+.social-networks, i {
+    font-size: 32px;
+    margin: 1%;
+    padding: 1%;
+    color:#696666;
+    
+}
+
+.ptext{
+    color:#696666;
+    text-align: center; 
+    font-family: 'karla', 'sans-serif' ;
+    font-size: 16px;
+    padding: 1px;
+}
+
+.makerlink{
+    color:black;
+    text-align: center; 
+    font-family: 'karla', 'sans-serif' ;
+    font-size: 16px;
+
+}
